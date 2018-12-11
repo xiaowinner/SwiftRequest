@@ -54,6 +54,7 @@
 		AFFBB9D521BF56DC0056D106 /* SwiftRequest */ = {
 			isa = PBXGroup;
 			children = (
+				AFFBB9E821BF5D200056D106 /* Networking */,
 				AFFBB9D621BF56DC0056D106 /* AppDelegate.swift */,
 				AFFBB9D821BF56DC0056D106 /* ViewController.swift */,
 				AFFBB9DA21BF56DC0056D106 /* Main.storyboard */,
@@ -62,6 +63,13 @@
 				AFFBB9E221BF56DD0056D106 /* Info.plist */,
 			);
 			path = SwiftRequest;
+			sourceTree = "<group>";
+		};
+		AFFBB9E821BF5D200056D106 /* Networking */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Networking;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
